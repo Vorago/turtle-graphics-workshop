@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'idea'
+
+
+repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
+}
+
+dependencies {
+    compile 'com.github.Vorago:cheloniidae:v1.0'
+}
+
+mainClassName = "lv.rtg.Main"
+
