@@ -9,7 +9,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.Vorago:cheloniidae:v1.0'
+    compile 'com.github.Vorago:cheloniidae:v1.0.1'
 }
 
 mainClassName = "lv.rtg.Main"
