@@ -36,7 +36,10 @@ https://www.jetbrains.com/idea/download/
 
 ### 1. Open terminal
 
-Can be found in applications
+Can be found in Applications -> Utilities
+
+![Terminal](/readme/terminal.png)
+
 
 ### 2. Install brew
 
