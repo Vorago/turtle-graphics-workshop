@@ -16,14 +16,14 @@
 
 ### 2. Install chocolatey
 
-Run this command to install [chocolatey](https://chocolatey.org/)
+Paste this command in cmd and press enter to install [chocolatey](https://chocolatey.org/)
 ```
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 ```
 
 ### 3. Install Java
 
-Then run this command to install Java
+Paste this command in cmd and press enter to install Java
 ```
 choco install jdk8 -params 'installdir=c:\\java8'
 ```
