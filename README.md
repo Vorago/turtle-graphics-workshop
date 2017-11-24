@@ -46,7 +46,7 @@ Can be found in Applications -> Utilities
 Paste this command in terminal and press enter
 
 ```
-install brew: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 ### 3. Install Java
